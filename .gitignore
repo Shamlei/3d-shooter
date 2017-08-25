@@ -64,3 +64,21 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.uasset
+*.cs
+*.xml
+*.pdb
+*.ini
+*.umap
+*.bin
+*.txt
+*.response
+*.manifest
+*.res
+*.json
+*.user
+*.filters
+*.vcxproj
+*.uproject
+*.log
+*.exp
